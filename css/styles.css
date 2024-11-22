@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f0f0f0;
+  background-color:rgb(222, 214, 214);
   margin: 0;
   padding: 0;
   display: flex;
@@ -26,6 +26,20 @@ button {
 button:hover {
   background-color: #0056b3;
 }
+li{list-style-type: none;
+  background-color: white;
+  border: 1px solid wheat;
+  gap: 10px;
+  margin: 10px;}
+.css button{background-color: red;
+  margin: 5px;}
+.bb button{background-color: green;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 142px;
+  margin-right: 35px;}
 
 
 

@@ -42,4 +42,4 @@ Como BONUS crear un botón para eliminar todos los elementos a la vez y/o un bot
 
 ## API Utilizada
 
-- [Chuck Norris API](https://api.chucknorris.io/jokes/random)
+- [Chuck Norris API]()https://api.chucknorris.io/jokes/random
